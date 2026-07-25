@@ -3,4 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, Hari");
     }
 }
+<<<<<<< HEAD
 e
+=======
+>>>>>>> 12b9ed7 (good)
